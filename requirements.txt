@@ -1,0 +1,5 @@
+streamlit
+requests  # For Ollama API calls
+json
+time
+PyPDF2
